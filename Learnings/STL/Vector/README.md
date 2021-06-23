@@ -1,1 +1,1 @@
-# The list of topics about covered in this code is given here
+# The list of topics covered about vector in this code is given here
