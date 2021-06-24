@@ -1,3 +1,5 @@
+// Code of using vector and features of vector...
+
 #include <iostream>
 #include <vector> // Heaader file for vector
 
